@@ -20,7 +20,7 @@ Passionate about evidence-based solutions for nutrition security and sustainable
 
 ## 🔗 Connect with Me
 - [LinkedIn](www.linkedin.com/in/afsana-ashrafi-a3475119a)  
-- [Google-portfolio](https://sites.google.com/d/1TBcYUbgZw9eswuQovXsV8qqI1pm6E3YL/p/1FJOXnmxT7lV-IVsnbRV13VOFq7SEz6Xa/edit))  
+- [Google-portfolio](https://sites.google.com/d/1TBcYUbgZw9eswuQovXsV8qqI1pm6E3YL/p/1FJOXnmxT7lV-IVsnbRV13VOFq7SEz6Xa/edit)
 
 ---
 
