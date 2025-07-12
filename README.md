@@ -1,6 +1,6 @@
 ## 👋 Welcome! This is Afsana.
 
-# 👩‍🔬 Nutritionist | 📊 Data Analyst
+# 👩‍🔬 Nutritionist | 📊 Researcher
 
 Passionate about evidence-based solutions for nutrition security and sustainable development. I hold a **Bachelor's in Nutrition & Food Science** from the University of Dhaka, Bangladesh.
 
@@ -20,8 +20,7 @@ Passionate about evidence-based solutions for nutrition security and sustainable
 
 ## 🔗 Connect with Me
 - [LinkedIn](www.linkedin.com/in/afsana-ashrafi-a3475119a)  
-- [Google-portfolio](https://sites.google.com/d/1TBcYUbgZw9eswuQovXsV8qqI1pm6E3YL/p/1FJOXnmxT7lV-IVsnbRV13VOFq7SEz6Xa/edit)
-
+- [Google-portfolio](https://sites.google.com/view/afsana-ashrafi/home)
 ---
 
 📬 **Let’s collaborate** on impactful, interdisciplinary solutions for healthier populations and a sustainable future.
