@@ -16,7 +16,7 @@ Passionate about evidence-based solutions for nutrition security and sustainable
 ## 🛠️ Tools & Technologies
 - **Languages:** R, STATA  
 - **Data Tools:** SPSS, Excel
-- **Writing:** MS Word, Zotero
+- **Writing:** MS Word, Mendeley
 
 ## 🔗 Connect with Me
 - [LinkedIn](www.linkedin.com/in/afsana-ashrafi-a3475119a)  
