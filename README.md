@@ -1,4 +1,4 @@
-## 👋 Welcome! This is Afsana.
+## 👋 Welcome! This is Afsana Ashrafi.
 
 # 👩‍🔬 Nutritionist | 📊 Researcher
 
