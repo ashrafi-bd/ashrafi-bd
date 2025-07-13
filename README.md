@@ -6,7 +6,6 @@ Passionate about evidence-based solutions for nutrition security and sustainable
 
 ## 📚 Currently
 - Pursuing an **MS in Nutrition & Food Science**, with a thesis focused on the **cost and affordability of healthy diets** in both rural and urban contexts  
-- Exploring PhD opportunities  
 - Publishing research on diet cost and affordability
 
 ## 📚 Past Roles
