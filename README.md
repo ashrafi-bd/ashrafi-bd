@@ -1,10 +1,10 @@
-## 👋 Welcome! This is Afsana Ashrafi.
+## Welcome! This is Afsana Ashrafi.
 
-# 👩‍🔬 Nutritionist | 📊 Researcher
+# Nutritionist | Researcher
 
 Passionate about evidence-based solutions for nutrition security and sustainable development. I hold a **Bachelor's in Nutrition & Food Science** from the University of Dhaka, Bangladesh.
 
-## 🧪 Currently
+## 📚 Currently
 - Pursuing an **MS in Nutrition & Food Science**, with a thesis focused on the **cost and affordability of healthy diets** in both rural and urban contexts  
 - Exploring PhD opportunities  
 - Publishing research on diet cost and affordability
